@@ -10,6 +10,8 @@ Dacon의 퇴근 시간대 버스 승차 인원수를 예측하는 머신러닝 �
 
 ---
 
+## 📉 발표 자료
+
 > [구글 슬라이드](https://docs.google.com/presentation/d/1CScy993FKBOMkQL4k5Hz05jaExq4SsulDgIlwq27kYU/edit?usp=sharing)
 
 ---
